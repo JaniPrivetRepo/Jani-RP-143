@@ -148,7 +148,7 @@ async def get_thumb(videoid):
             stroke_fill="black",
         )
 
-        text_classy = "@IamIstkhar"
+        text_classy = "Jani Bots"
         w_classy = get_text_width(text_classy, font_watermark)
 
         draw.text(
@@ -162,7 +162,7 @@ async def get_thumb(videoid):
 
         draw.text(
             (30, 680),
-            text="@llTHUNDER_KINGll",
+            text="@Power_of_Jani",
             fill="white",
             font=font_watermark,
             stroke_width=1,
