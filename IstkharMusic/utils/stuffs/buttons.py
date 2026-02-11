@@ -5,8 +5,8 @@ import config
 class BUTTONS(object):
     ABUTTON = [
     [
-        InlineKeyboardButton("sυᴘᴘᴏʀᴛ", url="https://t.me/THUNDERDEVS"),
-        InlineKeyboardButton("υᴘᴅᴧᴛᴇs", url="https://t.me/IamIstkhar")
+        InlineKeyboardButton("sυᴘᴘᴏʀᴛ", url="https://t.me/+a3O_RK3xMbA1ZGZl"),
+        InlineKeyboardButton("υᴘᴅᴧᴛᴇs", url="https://t.me/Selfish_Jani_Lover")
     ],
     [
         InlineKeyboardButton("ᴏᴡɴᴇʀ", user_id=config.OWNER_ID),
